@@ -7,8 +7,8 @@ function Footer() {
     <div className='rounded-div mt-8 w-ful'>
         <div className='my-5 grid gap-2 md:grid-cols-4 sm:grid-cols-3'>
             <div>
-                <h1 className='text-2xl font-semibold'>Coinbase</h1>
-                <p className='max-w-[160px] mt-2 text-sm'>Coinbase is crypto site project made by <a href="https://github.com/robo311">robo311</a>.<br/> Website is powered by <a href="https://www.coingecko.com">Coingecko</a> API.</p>
+                <h1 className='text-2xl font-semibold'>Sell Your Crypto</h1>
+                <p className='max-w-[160px] mt-2 text-sm'>We are a crypto exchange platform <a href="#"></a>.<br/> Website is powered by <a href="https://solana.com/">Solana</a> API.</p>
             </div>
             <div>
                 <h2 className='text-xl font-semibold mb-2'>About</h2>
@@ -45,7 +45,7 @@ function Footer() {
             </div>
         </div>
         <div className='flex justify-center mb-2 text-xs'>
-            <small>Made by <a href="https://github.com/robo311">@robo311</a>. Powered by CoinGecko.</small>
+            <small> Powered by Solana foundation.</small>
         </div>
     </div>
   )
